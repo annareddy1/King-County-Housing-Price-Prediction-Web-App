@@ -1,8 +1,8 @@
 # King-County-Housing-Price-Prediction-Web-App
-This project enables figuring out the key features that determine the sales price of houses. The resulting Web App helps real estate developers, individual buyers, and banks seek the best area in King County to develop new apartment buildings or make purchases.
+This project focuses on understanding the crucial features that influence house sales prices in King County, WA. By utilizing a dataset from Kaggle containing information about houses in the area, the goal is to create a web application that aids real estate developers, individual buyers, and financial institutions in making informed decisions. The app provides insights into the best areas in King County for developing new apartment buildings or making property purchases.
 
 ### Overview
-This repository contains a comprehensive project on machine learning and data visualization for King County housing data. The project aims to predict housing prices using a dataset of houses located in King County, WA, obtained from Kaggle. Each observation represents a house in the county, with features such as square footage, number of bedrooms and bathrooms, condition, and more. The project includes exploratory data analysis (EDA) and the construction of statistical machine learning models using various supervised and unsupervised learning methods.
+Within this repository, you'll find an extensive project on machine learning and data visualization for King County housing data. The project's primary objective is to predict housing prices by analyzing various features such as square footage, number of bedrooms and bathrooms, house condition, and more. The process includes exploratory data analysis (EDA) and constructing statistical machine learning models using a range of supervised and unsupervised learning techniques.
 
 ### Data Files:
 
@@ -71,8 +71,8 @@ Principal components analysis (PCA).
 K-means and hierarchical clustering.
 
 ### Report:
-- A short report is available in HTML format: king_county_markdown.html.
-- The same content is available in PDF format: king_county_markdown_report.pdf.
+- A concise report is available in HTML format: king_county_markdown.html.
+- The same content is also provided in PDF format: king_county_markdown_report.pdf.
 
 ### Plots:
 - Sample plots are included in the repository, showing distributions and relationships.
@@ -81,6 +81,9 @@ K-means and hierarchical clustering.
 ### Additional Notes:
 - Credit to "An Introduction to Statistical Learning" and "R Graphics Cookbook" for guidance.
 - Various supervised and unsupervised learning methods used for regression and classification.
-- Explanation about the inclusion of classification and unsupervised learning for demonstration purposes.
+- The inclusion of classification and unsupervised learning methods serves as a demonstration of their potential applications.
 
-This repository seems to be a comprehensive project focusing on exploring and modeling King County housing data using various machine learning techniques.
+### Conclusion
+The King County Housing Price Prediction Web App project delves into the intricacies of housing prices in the area, offering valuable insights for developers, buyers, and financial institutions. Through thorough analysis, including exploratory data visualization and a range of machine learning models, the project aims to empower stakeholders with the information needed to make informed decisions regarding property development and investment in King County. The combination of supervised and unsupervised learning techniques allows for a comprehensive understanding of the dataset, providing a robust foundation for the predictive model within the web application.
+
+
