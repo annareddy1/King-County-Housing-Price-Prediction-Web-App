@@ -1,6 +1,9 @@
 # King-County-Housing-Price-Prediction-Web-App
 This project focuses on understanding the crucial features that influence house sales prices in King County, WA. By utilizing a dataset from Kaggle containing information about houses in the area, the goal is to create a web application that aids real estate developers, individual buyers, and financial institutions in making informed decisions. The app provides insights into the best areas in King County for developing new apartment buildings or making property purchases.
 
+### Introduction
+Housing is a significant economic indicator that can have a substantial impact on a country's GDP (Gross Domestic Product). The housing sector has a significant multiplier effect on the economy. When there's increased activity in housing, it generates demand for other sectors like manufacturing, retail, and professional services, further boosting GDP. The housing market is often seen as a barometer of economic health. A thriving housing market generally reflects a healthy economy, while a slowdown can indicate broader economic challenges.
+
 ### Overview
 Within this repository, you'll find an extensive project on machine learning and data visualization for King County housing data. The project's primary objective is to predict housing prices by analyzing various features such as square footage, number of bedrooms and bathrooms, house condition, and more. The process includes exploratory data analysis (EDA) and constructing statistical machine learning models using a range of supervised and unsupervised learning techniques.
 
